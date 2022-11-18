@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebContent/admin/cat/add.jsp=UTF-8
+encoding//WebContent/admin/cat/index.jsp=UTF-8
+encoding//WebContent/admin/index.jsp=UTF-8
+encoding//WebContent/auth/login.jsp=UTF-8
+encoding//WebContent/public/index.jsp=UTF-8
+encoding//src/controller/AdminAddNewsController.java=UTF-8
+encoding//src/controller/AdminAddProjectController.java=UTF-8
+encoding//src/controller/AdminDelNewsController.java=UTF-8
+encoding//src/controller/AdminDelProjectController.java=UTF-8
+encoding//src/controller/AdminEditNewsController.java=UTF-8
+encoding//src/controller/AdminEditProjectController.java=UTF-8
+encoding//src/controller/AdminIndexInforController.java=UTF-8
+encoding//src/controller/PublicNewsController.java=UTF-8

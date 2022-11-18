@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE urlrewrite PUBLIC "-//tuckey.org//DTD UrlRewrite 4.0//EN"
+        "http://www.tuckey.org/res/dtds/urlrewrite4.0.dtd">
+
+
+<urlrewrite>
+	<rule>
+		<from>/(.+)-([0-9]+)/(.+)-([0-9]+)$</from>
+		<to>/news?cid=$2&amp;id=$4</to>
+	</rule>
+	<rule>
+		<from>/(.+)-([0-9]+)/page/([0-9]+)$</from>
+		<to>/cat?id=$2&amp;page=$3</to>
+	</rule>
+	<rule>
+		<from>/lienhe/thanhcong-([0-9]+).html$</from>
+		<to>/?msg=$1</to>
+	</rule>
+	<rule>
+		<from>/lienhe/thatbai-([0-9]+).html$</from>
+		<to>/?err=$1</to>
+	</rule>
+	<rule>
+		<from>/page/([0-9]+)$</from>
+		<to>/?page=$1</to>
+	</rule>
+	<rule>
+		<from>/(.+)-([0-9]+)$</from>
+		<to>/cat?id=$2</to>
+	</rule>
+	
+	
+</urlrewrite>
+

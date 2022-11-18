@@ -1,0 +1,41 @@
+.chaomung{
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 51px;
+    font-size: 20px;
+}
+.them{
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.quanly{
+    color: white;
+    margin-top: 40px;
+    padding-bottom: 51px;
+    font-size: 20px;
+    border-bottom: 1px solid gray;
+}
+.bang{
+    padding: 20px;
+}
+.allbang{
+    border: 1px solid white;  
+}
+.ttbang{
+    color: white;
+    border-bottom: 1px solid white;
+}
+.ttbang p{
+    margin: 12px;
+}
+.sua{
+    padding: 5px;
+    border-radius: 5px;
+}
+.xoa{
+    font-size: 12.24px;
+    padding: 6px;
+    border-radius: 5px;
+}
